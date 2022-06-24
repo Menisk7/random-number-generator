@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:AdMob.CustomRenders;assembly=AdMob"
+    x:Class="AdMob.Views.BannerAdPage">
+
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness">
+      <On Platform="iOS" Value="0,20,0,0"/>
+      <On Platform="Android" Value="0,0,0,0"/>
+      <On Platform="WinPhone" Value="0,0,0,0"/>
+    </OnPlatform>
+  </ContentPage.Padding>
+
+  <ContentPage.Content>
+    <StackLayout x:Name="stackLayout" BackgroundColor="Yellow" VerticalOptions="FillAndExpand" Padding="0,0,0,0">
+      <Label Text="Banner Advertisement" HorizontalOptions="CenterAndExpand" TextColor="Green" FontSize="25" />
+      <local:AdBanner Size="Standardbanner" VerticalOptions="EndAndExpand"/>
+    </StackLayout>
+  </ContentPage.Content>
+
+</ContentPage>
