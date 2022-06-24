@@ -13,4 +13,4 @@ Xamarin
 ## License
 
 MIT License
-More about the license in LICENCE.txt
+More about the license in [here](./LICENSE.txt) 
