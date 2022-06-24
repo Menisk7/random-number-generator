@@ -3,8 +3,7 @@
 App that lets you generate random numbers... 
 Yes very interesting i know .-.
 
-[app](./app.jpg)
-
+[](./app.jpg)
 
 ## Description
 
