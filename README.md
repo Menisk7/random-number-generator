@@ -1,4 +1,4 @@
-# random-number-generator [build]
+# random-number-generator 
 
 An Android app based on Xamarin framework that lets you generate random numbers... 
 Yes very interesting i know .-.
