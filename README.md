@@ -1,6 +1,6 @@
-# Project Title
+# random-number-generator [build]
 
-App that lets you generate random numbers... 
+An Android app based on Xamarin framework that lets you generate random numbers... 
 Yes very interesting i know .-.
 
 Here are some pictures:
@@ -13,6 +13,8 @@ Here are some pictures:
 ## Description
 
 A simple random number generator made for fun.
+
+Project can be run in Visual studio
 
 ### Dependencies
 Xamarin 
