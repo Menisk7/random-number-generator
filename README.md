@@ -3,7 +3,7 @@
 App that lets you generate random numbers... 
 Yes very interesting i know .-.
 
-<img src="app.png" width="425"/> <img src="app2.png" width="425"/> 
+<img src="./app.png" width="425"/> <img src="./app2.png" width="425"/> 
 
 ## Description
 
