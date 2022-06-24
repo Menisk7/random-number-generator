@@ -2,8 +2,8 @@
 
 App that lets you generate random numbers... 
 Yes very interesting i know .-.
+![](./app.jpg?raw=true "app")
 
-[](./app.jpg)
 
 ## Description
 
