@@ -15,7 +15,9 @@ Here are some pictures:
 A simple random number generator made for fun.
 
 Project can be run in Visual studio
+
 Google Play Link
+
 https://play.google.com/store/apps/details?id=com.companyname.random_number_generator
 
 ### Dependencies
